@@ -4,7 +4,7 @@ A simple my first 2D game where a player move in a linear path in map when playe
 
 #  2D Platform Game (Godot)
 
-A simple 2D platform built using Godot Engine as part of my learning journey.
+A simple 2D platform built using Godot Engine as part of my learning journey. I learning something new and i made this simple 2d game as first game developer.
 
 ---
 

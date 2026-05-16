@@ -1,14 +1,14 @@
 # my-godot-game
-A simple 2D platformer game built with Godot featuring player movement, death zones, and a restart system.
+A simple my first 2D game where a player move in a linear path in map when player collide with ground then game over, see a restart button at the top to restart the game.
 
 
-# 🎮 2D Platformer Game (Godot)
+#  2D Platform Game (Godot)
 
-A simple 2D platformer built using Godot Engine as part of my learning journey.
+A simple 2D platform built using Godot Engine as part of my learning journey.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Player movement (left, right, jump)
 * Death zone system
@@ -17,29 +17,23 @@ A simple 2D platformer built using Godot Engine as part of my learning journey.
 
 ---
 
-## 🎮 Controls
+## Controls
 
-* Move: Arrow keys
-* Jump: Space / Enter
-* Restart: Button click
+* Move:-Arrow keys
+* Jump:-Space / Enter
+* Restart:-Button click
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * Godot Engine
 * GDScript
 
 ---
 
-## 📂 Structure
+##  Structure
 
 * Player
 * Kill Zone
 * UI (Label + Restart Button)
-
----
-
-## 👨‍💻 Author
-
-Ravi Kumar Dube
